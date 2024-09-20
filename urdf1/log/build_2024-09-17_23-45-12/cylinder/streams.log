@@ -1,0 +1,21 @@
+[1.315s] Invoking command in '/home/gopi/urdf_docs/urdf1/src/cylinder': PYTHONPATH=/home/gopi/urdf_docs/urdf1/build/cylinder/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gopi/urdf_docs/urdf1/install/cylinder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/cylinder build --build-base /home/gopi/urdf_docs/urdf1/build/cylinder/build install --record /home/gopi/urdf_docs/urdf1/build/cylinder/install.log --single-version-externally-managed install_data
+[1.835s] running egg_info
+[1.837s] writing ../../build/cylinder/cylinder.egg-info/PKG-INFO
+[1.837s] writing dependency_links to ../../build/cylinder/cylinder.egg-info/dependency_links.txt
+[1.837s] writing entry points to ../../build/cylinder/cylinder.egg-info/entry_points.txt
+[1.838s] writing requirements to ../../build/cylinder/cylinder.egg-info/requires.txt
+[1.838s] writing top-level names to ../../build/cylinder/cylinder.egg-info/top_level.txt
+[1.843s] reading manifest file '../../build/cylinder/cylinder.egg-info/SOURCES.txt'
+[1.846s] writing manifest file '../../build/cylinder/cylinder.egg-info/SOURCES.txt'
+[1.846s] running build
+[1.846s] running build_py
+[1.846s] running install
+[1.847s] running install_lib
+[1.850s] running install_data
+[1.851s] copying launch/cylinder.launch.py -> /home/gopi/urdf_docs/urdf1/install/cylinder/share/cylinder/launch
+[1.851s] running install_egg_info
+[1.856s] removing '/home/gopi/urdf_docs/urdf1/install/cylinder/lib/python3.10/site-packages/cylinder-0.0.0-py3.10.egg-info' (and everything under it)
+[1.857s] Copying ../../build/cylinder/cylinder.egg-info to /home/gopi/urdf_docs/urdf1/install/cylinder/lib/python3.10/site-packages/cylinder-0.0.0-py3.10.egg-info
+[1.859s] running install_scripts
+[1.900s] writing list of installed files to '/home/gopi/urdf_docs/urdf1/build/cylinder/install.log'
+[1.942s] Invoked command in '/home/gopi/urdf_docs/urdf1/src/cylinder' returned '0': PYTHONPATH=/home/gopi/urdf_docs/urdf1/build/cylinder/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/gopi/urdf_docs/urdf1/install/cylinder/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/cylinder build --build-base /home/gopi/urdf_docs/urdf1/build/cylinder/build install --record /home/gopi/urdf_docs/urdf1/build/cylinder/install.log --single-version-externally-managed install_data

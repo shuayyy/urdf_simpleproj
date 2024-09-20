@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<robot name="cylinder_robot">
+  <link name="cylinder_link">
+    <visual>
+      <geometry>
+        <cylinder radius="0.5" length="1.0"/>
+      </geometry>
+      <origin xyz="0 0 0.5" rpy="0 0 0"/>
+      <material name="custom_grey">
+        <color rgba="0.7 0.7 0.7 1"/>
+      </material>
+    </visual>
+  </link>
+</robot>
+

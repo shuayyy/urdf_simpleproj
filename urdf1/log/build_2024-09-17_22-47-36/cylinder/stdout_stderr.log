@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/cylinder/cylinder.egg-info
+writing ../../build/cylinder/cylinder.egg-info/PKG-INFO
+writing dependency_links to ../../build/cylinder/cylinder.egg-info/dependency_links.txt
+writing entry points to ../../build/cylinder/cylinder.egg-info/entry_points.txt
+writing requirements to ../../build/cylinder/cylinder.egg-info/requires.txt
+writing top-level names to ../../build/cylinder/cylinder.egg-info/top_level.txt
+writing manifest file '../../build/cylinder/cylinder.egg-info/SOURCES.txt'
+reading manifest file '../../build/cylinder/cylinder.egg-info/SOURCES.txt'
+writing manifest file '../../build/cylinder/cylinder.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/gopi/urdf_docs/urdf1/build/cylinder/build
+creating /home/gopi/urdf_docs/urdf1/build/cylinder/build/lib
+creating /home/gopi/urdf_docs/urdf1/build/cylinder/build/lib/cylinder
+copying cylinder/__init__.py -> /home/gopi/urdf_docs/urdf1/build/cylinder/build/lib/cylinder
+running install
+running install_lib
+creating /home/gopi/urdf_docs/urdf1/install/cylinder/lib/python3.10/site-packages/cylinder
+copying /home/gopi/urdf_docs/urdf1/build/cylinder/build/lib/cylinder/__init__.py -> /home/gopi/urdf_docs/urdf1/install/cylinder/lib/python3.10/site-packages/cylinder
+byte-compiling /home/gopi/urdf_docs/urdf1/install/cylinder/lib/python3.10/site-packages/cylinder/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/gopi/urdf_docs/urdf1/install/cylinder/share/ament_index
+creating /home/gopi/urdf_docs/urdf1/install/cylinder/share/ament_index/resource_index
+creating /home/gopi/urdf_docs/urdf1/install/cylinder/share/ament_index/resource_index/packages
+copying resource/cylinder -> /home/gopi/urdf_docs/urdf1/install/cylinder/share/ament_index/resource_index/packages
+copying package.xml -> /home/gopi/urdf_docs/urdf1/install/cylinder/share/cylinder
+creating /home/gopi/urdf_docs/urdf1/install/cylinder/share/cylinder/urdf
+copying urdf/cylinder.urdf -> /home/gopi/urdf_docs/urdf1/install/cylinder/share/cylinder/urdf
+running install_egg_info
+Copying ../../build/cylinder/cylinder.egg-info to /home/gopi/urdf_docs/urdf1/install/cylinder/lib/python3.10/site-packages/cylinder-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/gopi/urdf_docs/urdf1/build/cylinder/install.log'
